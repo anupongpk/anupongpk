@@ -6,6 +6,9 @@
 - **UX/UI Design**: Crafting intuitive user experiences
 - **Learning**: Currently diving into Go and Rust to expand my toolkit 🚀
 
+👨‍💻 **Currently Working**:
+I work as a **Software Engineer** and **Designer** at a software house, developing cross-functional solutions that drive innovation and streamline operations across various domains.
+
 🔧 **What I Do**:
 I create automation solutions for small to medium-sized enterprises (SMEs), reducing process time and boosting efficiency. With over 3 years of experience, I've led multiple automation projects, improving operational workflows by 30%. I thrive on collaboration, turning business challenges into efficient, automated solutions.
 
@@ -16,7 +19,7 @@ Exploring Go and Rust to enhance my backend development skills.
 I'm open to working on new projects that involve automation, software development, or anything that pushes the boundaries of innovation.
 
 📫 **Reach Out**:
-Feel free to connect with me here on GitHub. Let's talk code, automation, or just about anything tech!
+Feel free to connect with me here on GitHub or [LinkedIn](https://www.linkedin.com/in/anupong-pengkam).
 
 <!---
 anupongpk/anupongpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
